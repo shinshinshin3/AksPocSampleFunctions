@@ -3,4 +3,7 @@
   <PropertyGroup>
     <_LastSelectedProfileId>C:\Users\shinshin\source\repos\consumerFunction01\Properties\PublishProfiles\kafkaExtFunction01 - Zip Deploy.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
 </Project>
